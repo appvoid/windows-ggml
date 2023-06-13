@@ -1,8 +1,6 @@
-# ggml
-
-Tensor library for machine learning
-
-This version of GGML makes it possible to build the binaries on Windows devices.
+# windows ggml
+### Tensor library for machine learning on Windows
+This version of GGML makes it possible to build the binaries using MinGW.
 
 ## Features
 
@@ -18,7 +16,7 @@ This version of GGML makes it possible to build the binaries on Windows devices.
 
 Here is how to run the example programs:
 
-1. Download the latest version of [w64devkit](https://github.com/skeeto/w64devkit/releases).
+1. Download the latest version of [w64devkit](https://github.com/skeeto/w64devkit/releases/download/v1.19.0/w64devkit-1.19.0.zip).
 2. Extract w64devkit on your pc.
 3. Run w64devkit.exe.
 4. Use the `cd` command to reach the windows-ggml folder.
