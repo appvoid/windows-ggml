@@ -16,7 +16,7 @@ This version of GGML makes it possible to build the binaries using MinGW.
 
 Here is how to run the example programs:
 
-1. Clone the repo: `git clone https://github.com/hackerexpuesto/windows-ggml.git`
+1. Clone the repo: `git clone https://github.com/appvoid/windows-ggml.git`
 1. Download [w64devkit](https://github.com/skeeto/w64devkit/releases/download/v1.19.0/w64devkit-1.19.0.zip).
 2. Extract w64devkit on your pc.
 3. Run w64devkit.exe.
