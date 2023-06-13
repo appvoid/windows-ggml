@@ -1,6 +1,4 @@
 ![windows-ggml](https://github.com/appvoid/windows-ggml/blob/2523c4992cda97e3a5cc6d6c3221e7db811c84c1/windows-ggml.png)
-
-# windows ggml
 ### Tensor library for machine learning on Windows
 This version of GGML makes it possible to build the binaries using MinGW.
 
