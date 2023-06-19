@@ -30,4 +30,4 @@ cmake -G "MinGW Makefiles" ..
 make -j4 gpt-2
 ```
 
-I've just noticed all you need is the cmake command to make it work almost everywhere.
+I've just noticed all you need is the cmake command to make it work almost everywhere. Made a whole repo, lol.
